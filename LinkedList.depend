@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1543413199 source:d:\iti\oop\day2\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1543488912 source:d:\iti\data structure\day1\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1544799450 source:d:\iti_sd\datastructure\project\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1544971125 source:c:\users\iti0\desktop\project\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<strings.h>
+	<string>
+	<windows.h>
+	<regex>
+
+1544972493 source:c:\users\iti0\desktop\pro\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<strings.h>
+	<string>
+	<windows.h>
+	<regex>
+
+1545512215 source:d:\iti_sd\pro\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<strings.h>
+	<string>
+	<windows.h>
+	<regex>
+
+1545650511 source:c:\users\marwa\desktop\linkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<strings.h>
+	<string>
+	<windows.h>
+	<fstream>
+
